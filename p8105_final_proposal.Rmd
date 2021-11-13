@@ -19,6 +19,7 @@ The final product is intended to be a website including interactive design “NY
 #### The anticipated data sources
 
 https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Year-To-Date-/5ucz-vwe8
+
 https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8
 
 Our group chooses NYPD Shooting Data (Year to Date) and NYPD Shooting Incident Data (Historic) on the NYC Open Data website as the population. The data records all shooting incidents in NYC from 01/01/2006 until now. The combined data contains 19 columns and around 23.8k rows in total. Each record is a shooting incident with information such as locations, time to the minute, Perpetrator’s description, victim’s description, etc. 
